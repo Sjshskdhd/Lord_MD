@@ -1,17 +1,6 @@
-// M A D E  B Y  Letta - Sama 🐰  
-// Credits, jangan dihapus atau diubah!
+// M A D E  B Y  Zora  
 
-// - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.sad.Boy01
-// • Rasel comel
-// • Ammar Executed
-// • Xtreshe (Beban)
-// • Dll
+
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -44,37 +33,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/lord_ammar_quoteser'
-global.sgh = 'https://github.com/AmmarrBN'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sig = 'https://instagram.com/nozex___'
+global.sgh = 'https://github.com/Zora3mk'
+global.sgc = 'https://chat.whatsapp.com/96171350883'
 global.sdc = '-'
-global.snh = 'https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ'
+global.snh = '@VEOEDITING'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '087708773367'
-global.ppulsa2 = '088229683561'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '96171350883'
+global.povo = '96171350883'
+global.pgopay = '96171350883'
+global.ppulsa = '96171350883'
+global.ppulsa2 = '96171350883'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
+global.nomorbot = '16519466512'
+global.nomorown = '96171350883'
 global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nameown = 'Zora'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['96171350883'],
+  ['96171350883'],
+  ['96171350883'],
+  ['96171350883', '⌬ Zora', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['96171350883'] // Want some help?
+global.prems = ['96171350883'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,20 +105,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
+global.wm = '                「 ZoraBot ⁩㊣ 」' //Main Watermark
+global.wm2 = 'Zora Bot'
+global.wm3 = '⫹⫺ zora 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : {wktuwib}`
+global.titlebot = `⫹⫺ Zora Bot | By ${global.nameown}`
+global.author = '                「 ZoraBot あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumb = 'https://64.media.tumblr.com/d24b8297f7f15f9ff890bb811ac6dda1/121e19b11ef5697a-dc/s400x600/3c29834f63989aa30cdcdb7623431c25bdbc15db.jpg' //Main Thumbnail
+global.imagebot = 'https://64.media.tumblr.com/d24b8297f7f15f9ff890bb811ac6dda1/121e19b11ef5697a-dc/s400x600/3c29834f63989aa30cdcdb7623431c25bdbc15db.jpgq'
+global.giflogo = 'https://64.media.tumblr.com/d24b8297f7f15f9ff890bb811ac6dda1/121e19b11ef5697a-dc/s400x600/3c29834f63989aa30cdcdb7623431c25bdbc15db.jpg'
+global.thumbs = ['https://64.media.tumblr.com/d24b8297f7f15f9ff890bb811ac6dda1/121e19b11ef5697a-dc/s400x600/3c29834f63989aa30cdcdb7623431c25bdbc15db.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
@@ -180,7 +169,7 @@ global.cmenuh = '』––––––' //header
 global.cmenub = '┊✦ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '✦' //pembatas menu selector
+global.pmenus = '✦' // menu selector
 
 global.htki = '––––––『' //hiasan title kiri
 global.htka = '』––––––' //hiasan title kanan
@@ -190,7 +179,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Lord Botz\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Zora Bot\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
