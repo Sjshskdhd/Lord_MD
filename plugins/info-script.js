@@ -3,7 +3,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	// ‼️ NOTE: Link script Jangan diubah, dihapus atau diganti
 let text = `❏ *📮 Script Multi Device*
 │• *Script :* 
-│↳ github.com/AmmarrBN/Lord-MD
+│↳ github.com/اugAN/Lord-MD
 │• *Node_Modules:*
 │↳ www.mediafire.com/file/q8ogv16wd5j7iju/node.tar.gz/file
 │• *Base :* 
@@ -12,7 +12,7 @@ let text = `❏ *📮 Script Multi Device*
 
 ❏ *📮 Script Non MD*
 │• *Script :* 
-│↳ github.com/Lord-Ammar/Lord-BotV3
+│↳ github.com/اugAN/Lord-MD
 │• *Base :* 
 │↳ github.com/bochilgaming/games-wabot
 ┗──────────═┅═──────────
