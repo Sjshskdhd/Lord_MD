@@ -35,35 +35,35 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/nozex___'
 global.sgh = 'https://github.com/Zora3mk'
-global.sgc = 'https://chat.whatsapp.com/96171350883'
+global.sgc = 'https://chat.whatsapp.com/201098906252'
 global.sdc = '-'
 global.snh = '@VEOEDITING'
 
 /*============== PAYMENT ==============*/
-global.pdana = '96171350883'
-global.povo = '96171350883'
-global.pgopay = '96171350883'
-global.ppulsa = '96171350883'
-global.ppulsa2 = '96171350883'
+global.pdana = '201098906252'
+global.povo = '201098906252'
+global.pgopay = '201098906252'
+global.ppulsa = '201098906252'
+global.ppulsa2 = '201098906252'
 global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '16519466512'
-global.nomorown = '96171350883'
-global.namebot = 'Lord-Botz'
-global.nameown = 'Zora'
+global.nomorbot = '201098906252'
+global.nomorown = '201098906252'
+global.namebot = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻'
+global.nameown = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['96171350883'],
-  ['96171350883'],
-  ['96171350883'],
-  ['96171350883', '⌬ Zora', true]
+  ['201098906252'],
+  ['201098906252'],
+  ['201098906252'],
+  ['201098906252', '⌬ 𝑬𝑳𝑮𝑨𝒁𝑨𝑹', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['96171350883'] // Want some help?
-global.prems = ['96171350883'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['201098906252'] // Want some help?
+global.prems = ['201098906252'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -106,12 +106,12 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 ZoraBot ⁩㊣ 」' //Main Watermark
-global.wm2 = 'Zora Bot'
-global.wm3 = '⫹⫺ zora 𝗕𝗢𝗧'
+global.wm2 = 'Elgazar Bot'
+global.wm3 = '⫹⫺ 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : {wktuwib}`
-global.titlebot = `⫹⫺ Zora Bot | By ${global.nameown}`
-global.author = '                「 ZoraBot あ⁩ 」'
+global.titlebot = `⫹⫺ Elgazar Bot | By ${global.nameown}`
+global.author = '                「 ElgazarBot あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -139,8 +139,8 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」انتظر لحظه...```'
+global.eror = '```404ايرور```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
